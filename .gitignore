@@ -1,0 +1,10 @@
+# Generated MATLAB outputs
+results/
+*.asv
+*.log
+*.err
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+
